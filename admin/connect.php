@@ -9,7 +9,7 @@
     $cyclinders = $_POST['cyclinders'];
 
     //Database connection
-    $conn = new mysqli('localhost', 'root', '', 'covihospital_db');
+    $conn = new mysqli('covi11.mysql.database.azure.com', 'covi11@covi11', 'crk@2022', 'covihospital_db');
     if($conn->connect_error){
         die('Connection Failed : ' .$conn->connect_error);
          }
