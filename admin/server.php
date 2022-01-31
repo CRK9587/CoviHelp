@@ -7,7 +7,7 @@ $email    = "";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'covihospital_db');
+$db = mysqli_connect('covi11.mysql.database.azure.com', 'covi11@covi11', 'crk@2022', 'covihospital_db');
 
 
 // LOGIN USER
