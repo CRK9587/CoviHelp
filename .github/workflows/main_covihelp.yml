@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'covihelp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FF92148C8EF4983BEA8BF5F851BD2EA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA074AC6BAB24A708B4529205C50C6C1 }}
           package: .
