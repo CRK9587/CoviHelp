@@ -715,7 +715,8 @@ End of List of Hospitals-->
                         <form>
                             <input type="email" name="Email" value="Email">
                             <input type="submit" value="Join">
-                        </form>
+                        </form><br>
+                        <iframe src='https://webchat.botframework.com/embed/covi1-bot?s=xmjyMLQYlKs.afgJV81oTbL97hWHCpnRySzocfrnAuw4aCatIgOrVa0'  style='min-width: 350px; width: 30%; min-height: 200px;'></iframe>
                     </div>
                 </div>
             </div>
